@@ -1,3 +1,7 @@
+*{
+    
+}
+
 
 :root {
     --primary-color: #fbbf24;
@@ -10,10 +14,13 @@
     padding: 2rem;
     border-bottom-left-radius: 1rem;
     padding-inline-start: 0px;
+    margin-top: 0px;
+
 }
 
 .body {
     background-color: var(--off-yellow);
+    margin: 0px;
 }
 
 .textarea {
